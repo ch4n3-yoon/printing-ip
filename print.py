@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-from colored import fg, bg, attr
+from colored import fg, attr
 import sys
 
 ip = str(sys.argv[1])
